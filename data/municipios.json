@@ -1,0 +1,35 @@
+
+{
+  "municipios": [
+    {
+      "id": "3118601",
+      "nome": "Contagem",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "id": "3106200",
+      "nome": "Belo Horizonte",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "id": "3170206",
+      "nome": "Uberlândia",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "id": "3127701",
+      "nome": "Governador Valadares",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "id": "3136702",
+      "nome": "Juiz de Fora",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    }
+  ]
+}
