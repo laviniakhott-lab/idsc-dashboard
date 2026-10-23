@@ -1,0 +1,35 @@
+
+{
+  "fontes": [
+    {
+      "id": "ibge",
+      "nome": "Instituto Brasileiro de Geografia e Estatística",
+      "sigla": "IBGE",
+      "url": "https://www.ibge.gov.br/"
+    },
+    {
+      "id": "rais",
+      "nome": "Relação Anual de Informações Sociais",
+      "sigla": "RAIS",
+      "url": "https://www.gov.br/trabalho-e-emprego/"
+    },
+    {
+      "id": "novo_caged",
+      "nome": "Novo Cadastro Geral de Empregados e Desempregados",
+      "sigla": "Novo CAGED",
+      "url": "https://www.gov.br/trabalho-e-emprego/"
+    },
+    {
+      "id": "comexstat",
+      "nome": "Comex Stat",
+      "sigla": "MDIC",
+      "url": "https://comexstat.mdic.gov.br/"
+    },
+    {
+      "id": "smartlab",
+      "nome": "Observatório de Segurança e Saúde no Trabalho",
+      "sigla": "SmartLab",
+      "url": "https://smartlab.mpt.mp.br/"
+    }
+  ]
+}
