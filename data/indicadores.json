@@ -1,1 +1,50 @@
 
+{
+  "indicadores": [
+    {
+      "id": "populacao_total",
+      "nome": "População total",
+      "categoria": "Demografia",
+      "descricao": "Número total de habitantes do município.",
+      "unidade": "habitantes",
+      "periodicidade": "anual",
+      "fonte_id": "ibge"
+    },
+    {
+      "id": "empregos_formais",
+      "nome": "Estoque de empregos formais",
+      "categoria": "Mercado de Trabalho",
+      "descricao": "Quantidade de vínculos formais de emprego registrados na RAIS.",
+      "unidade": "vínculos",
+      "periodicidade": "anual",
+      "fonte_id": "rais"
+    },
+    {
+      "id": "saldo_empregos",
+      "nome": "Saldo de empregos formais",
+      "categoria": "Mercado de Trabalho",
+      "descricao": "Diferença entre admissões e desligamentos de trabalhadores formais.",
+      "unidade": "vínculos",
+      "periodicidade": "mensal",
+      "fonte_id": "novo_caged"
+    },
+    {
+      "id": "pib_per_capita",
+      "nome": "PIB per capita",
+      "categoria": "Economia",
+      "descricao": "Produto Interno Bruto municipal dividido pela população de referência.",
+      "unidade": "R$ por habitante",
+      "periodicidade": "anual",
+      "fonte_id": "ibge"
+    },
+    {
+      "id": "exportacoes",
+      "nome": "Exportações municipais",
+      "categoria": "Comércio Exterior",
+      "descricao": "Valor das exportações atribuídas ao município.",
+      "unidade": "US$ FOB",
+      "periodicidade": "mensal",
+      "fonte_id": "comexstat"
+    }
+  ]
+}
