@@ -1,0 +1,45 @@
+
+{
+  "observacoes": [
+    {
+      "municipio_id": "3118601",
+      "indicador_id": "empregos_formais",
+      "ano": 2020,
+      "periodo": "2020",
+      "valor": 100000,
+      "fonte_id": "rais"
+    },
+    {
+      "municipio_id": "3118601",
+      "indicador_id": "empregos_formais",
+      "ano": 2021,
+      "periodo": "2021",
+      "valor": 105000,
+      "fonte_id": "rais"
+    },
+    {
+      "municipio_id": "3118601",
+      "indicador_id": "empregos_formais",
+      "ano": 2022,
+      "periodo": "2022",
+      "valor": 110000,
+      "fonte_id": "rais"
+    },
+    {
+      "municipio_id": "3118601",
+      "indicador_id": "empregos_formais",
+      "ano": 2023,
+      "periodo": "2023",
+      "valor": 120000,
+      "fonte_id": "rais"
+    },
+    {
+      "municipio_id": "3118601",
+      "indicador_id": "empregos_formais",
+      "ano": 2024,
+      "periodo": "2024",
+      "valor": 125000,
+      "fonte_id": "rais"
+    }
+  ]
+}
